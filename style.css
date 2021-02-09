@@ -651,7 +651,8 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    /*color: #575757!important;*/
+    color: black;
 }
 
 .container {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -705,13 +706,16 @@ p {
 }
 
 h2 {
-    font-size: 22px;
-    line-height: 1.4em;
+    font-size: 15px;
+   /* line-height: 1.4em;*/
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
 }
 
 h3 {
-    font-size: 15px;
-    text-transform: uppercase;
+    font-size: 20px;
+    /*text-transform: uppercase;*/
     font-weight: 700;
     color: #333333!important;
 }
@@ -727,7 +731,12 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+      font-size: 15px;
+   /* line-height: 1.4em;*/
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+   /* color: #333333!important;*/
 }
 
 .icons {
@@ -736,7 +745,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    /*color: #FFFFFF!important;*/
 }
 
 .portfolio-thumb {
@@ -775,7 +784,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    /*color: #F3976C!important;*/
 }
 
 .btn-atomic-tangerine {
