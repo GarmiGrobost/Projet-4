@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: black!important;
 }
 
 .icon-lg {
@@ -661,6 +662,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    
 }
 
 .hero-bloc-text-sub {
@@ -717,9 +719,14 @@ h3 {
     font-size: 20px;
     /*text-transform: uppercase;*/
     font-weight: 700;
-    color: #333333!important;
+    color: black!important;
 }
-
+h5 {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -727,6 +734,8 @@ h3 {
 }
 
 h1 {
+    background-color: #f2f2f2;
+    border-radius: 5px;
     color: #333333!important;
 }
 
@@ -742,6 +751,7 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
+    
 }
 
 .white {
@@ -768,6 +778,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
+    color: black;
     text-decoration: underline!important;
 }
 
@@ -789,7 +800,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -798,7 +809,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {
@@ -816,6 +827,7 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+    font-weight: bold;
 }
 
 .bg-dots-bg {
