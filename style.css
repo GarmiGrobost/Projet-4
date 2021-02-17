@@ -287,8 +287,11 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    margin-top: 10px;
 }
-
+a.nav-link{
+    color: black !important;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -553,8 +556,9 @@ a[data-lightbox]:hover::before {
     z-index: 1;
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
+    left: 50%;
+    transform: translateY(-64%);
+    -webkit-transform: translateY(-64%);
 }
 
 a[data-lightbox]:hover img {
@@ -728,6 +732,7 @@ h5 {
     font-weight: bold;
     background-color: #f2f2f2;
     border-radius: 5px;
+    margin: 0 auto;
 }
 .med-width-whitespace {
     max-width: 800px;
