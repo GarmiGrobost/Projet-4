@@ -370,6 +370,9 @@ a.nav-link{
     font-size: 20px;
     font-weight: bold;
 }
+figcaption {
+    font-weight: bold;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
