@@ -366,7 +366,10 @@ a.nav-link{
     position: relative;
     z-index: 2;
 }
-
+.citation {
+    font-size: 20px;
+    font-weight: bold;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
