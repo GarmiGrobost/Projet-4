@@ -372,6 +372,7 @@ a.nav-link{
 }
 figcaption {
     font-weight: bold;
+    background-color: white;
 }
 @media (min-width: 768px) {
     .site-navigation {
@@ -717,6 +718,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding: 10px;
 }
 
 h2 {
