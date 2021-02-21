@@ -996,7 +996,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: 200px;
+        width:auto;
     }
     .nav-invert .navbar-header {
         float: none;
